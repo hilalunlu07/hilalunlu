@@ -162,7 +162,7 @@ var surveyLocalization = {
 var surveyStrings = {
     pagePrevText: "Önceki",
     pageNextText: "Sonraki",
-    completeText: "Complete",
+    completeText: "Tamamlandı",
     otherItemText: "Other (describe)",
     progressText: "sayfa {0} arasında {1}",
     emptySurvey: "There is no visible page or question in the survey.",
